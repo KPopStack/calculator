@@ -7,10 +7,10 @@ int multi(int, int);
  
 int main(int argc, char* argv[])
 {
-	int number100, number299, result;
+	int n1, n2, result;
 	char operator;
 	
-	printf("수식 입력해! (1+2: ");
+	printf("Please enter a expression (1+2: ");
 	scanf("%d %c %d", &number1, &operator, &number2);
 	
 	switch (operator)
