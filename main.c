@@ -7,7 +7,7 @@ int multi(int, int);
  
 int main(int argc, char* argv[])
 {
-	int number100, number200, result;
+	int number100, number299, result;
 	char operator;
 	
 	printf("수식 입력해! (1+2: ");
